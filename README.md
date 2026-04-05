@@ -46,12 +46,14 @@ With optional OpenAI image generation:
 flutter run --dart-define=GOOGLE_GEMINI_KEY=your_gemini_key --dart-define=OPENAI_KEY=your_openai_key
 ```
 
-## Quality Checks
+## App Preview
 
-```bash
-flutter analyze
-flutter test
-```
+<p align="center">
+  <img src="assets/screen1.png" width="22%" />
+  <img src="assets/screen2.png" width="22%" />
+  <img src="assets/screen3.png" width="22%" />
+  <img src="assets/screen4.png" width="22%" />
+</p>
 
 ## Important Security Notes
 
