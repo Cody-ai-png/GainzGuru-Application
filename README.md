@@ -1,6 +1,6 @@
 # GainzGuru
 
-GainzGuru is a Flutter app that uses AI to turn photos of available ingredients into recipe suggestions, estimated nutrition values, and (optionally) generated meal images.
+GainzGuru is a Flutter app that uses AI to turn photos of available ingredients into recipe suggestions, estimated nutrition values, and (optionally) generated meal images. 
 
 ## Features
 
