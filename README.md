@@ -48,12 +48,26 @@ flutter run --dart-define=GOOGLE_GEMINI_KEY=your_gemini_key --dart-define=OPENAI
 
 ## App Preview
 
-<p align="center">
-  <img src="assets/screen1.png" width="22%" />
-  <img src="assets/screen2.png" width="22%" />
-  <img src="assets/screen3.png" width="22%" />
-  <img src="assets/screen4.png" width="22%" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screen1.png" width="200"/><br/>
+      <sub>Home</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screen2.png" width="200"/><br/>
+      <sub>Scan</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screen3.png" width="200"/><br/>
+      <sub>Ingredients</sub>
+    </td>
+    <td align="center">
+      <img src="assets/screen4.png" width="200"/><br/>
+      <sub>Recipe</sub>
+    </td>
+  </tr>
+</table>
 
 ## Important Security Notes
 
